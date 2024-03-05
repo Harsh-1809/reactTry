@@ -1,0 +1,33 @@
+#footer{
+    border-top: 1px solid black;
+    height: 200px;
+    display: flex;
+    padding-top: 50px;
+}
+#logos-footer{
+    width: 100px;
+}
+#list-foot{
+    padding: 10px;
+    position: relative;
+    font-family: Poppins, sans-serif;;
+    color: #000;
+    letter-spacing: 0.015625em;
+}
+.div-foot{
+    width: 25%;
+    font-size: 1.2rem;
+}
+#support-footer{
+    margin-left: 95px;
+}
+#company-footer{
+    margin-left: 95px;
+}
+#terms-footer{
+    margin-left: 95px;
+}
+.ul-foot{
+    margin-top: 10px;
+    text-decoration: none;
+}
